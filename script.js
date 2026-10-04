@@ -24,7 +24,7 @@
   document.addEventListener('keydown', event => {
     if (event.key === 'Escape' && menuButton.getAttribute('aria-expanded') === 'true') { closeMenu(); menuButton.focus(); }
   });
-  const cards = [...document.querySelectorAll('.project-card')];
+  const cards = [...document.querySelectorAll('.project-grid:not(.video-grid) .project-card')];
   document.querySelectorAll('.filter').forEach(button => button.addEventListener('click', () => {
     document.querySelectorAll('.filter').forEach(filter => {
       const active = filter === button;
