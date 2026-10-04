@@ -28,6 +28,6 @@ Professional roles, education, project outcomes and technical skills were drawn 
 - GitHub: https://github.com/hamzakhalidhk
 - RFID project: https://github.com/hamzakhalidhk/RFID-Software
 
-The public LinkedIn profile corroborated Aledade and Carnegie Mellon. The resume supplied the detailed role descriptions and dates. The RFID summary was checked against its repository README. Decorative system and signal diagrams are illustrations, not screenshots or company data. No course starter code is presented as independently completed work.
+The public LinkedIn profile corroborated Aledade and Carnegie Mellon. The resume supplied the detailed role descriptions and dates. The RFID summary was checked against its repository README. The three project videos are linked from Hamza’s YouTube archive, and Google Scholar is linked as a research profile. Decorative system and signal diagrams are illustrations, not screenshots or company data. No course starter code is presented as independently completed work.
 
 Review the current role, dates, project outcomes and resume whenever updating this portfolio.
