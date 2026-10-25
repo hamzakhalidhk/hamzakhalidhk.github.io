@@ -8,7 +8,7 @@ Run `python3 -m http.server 8080` in this directory, then open `http://localhost
 
 ## GitHub Pages
 
-Publish the contents of this directory to the `main` branch of `hamzakhalidhk/hamzakhalidhk.github.io`. In Settings → Pages, select **Deploy from a branch**, `main`, and `/ (root)`. GitHub serves the site at https://hamzakhalidhk.github.io/.
+Publish the contents of this directory to the `main` branch of `hamzaverse/hamzaverse.github.io`. In Settings → Pages, select **Deploy from a branch**, `main`, and `/ (root)`. GitHub serves the site at https://hamzaverse.github.io/.
 
 ## Editing
 
@@ -25,7 +25,7 @@ Fonts are loaded from Google Fonts with system fallbacks. No tracking, analytics
 Professional roles, education, project outcomes and technical skills were drawn from Hamza's supplied resume, reviewed October 3, 2026. Numeric results are resume-reported, not independently audited benchmarks. The site does not imply public access to proprietary work.
 
 - LinkedIn: https://www.linkedin.com/in/hamzakld/
-- GitHub: https://github.com/hamzakhalidhk
+- GitHub: https://github.com/hamzaverse
 
 The public LinkedIn profile corroborated Aledade and Carnegie Mellon. The resume supplied the detailed role descriptions and dates. The three project videos are linked from Hamza’s YouTube archive, and Google Scholar is linked as a research profile. Decorative system and signal diagrams are illustrations, not screenshots or company data. No course starter code is presented as independently completed work.
 
