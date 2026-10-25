@@ -15,7 +15,6 @@ Publish the contents of this directory to the `main` branch of `hamzaverse/hamza
 - `index.html`: biography, projects, experience, links, metadata.
 - `styles.css`: responsive layouts, light/dark themes, reduced-motion and print styles.
 - `script.js`: project filters, mobile menu, theme preference, copy email.
-- `Hamza-Khalid-Resume.pdf`: supplied resume.
 - `portrait.jpg`: public GitHub profile image.
 
 Fonts are loaded from Google Fonts with system fallbacks. No tracking, analytics, API keys, backend, or runtime packages.
